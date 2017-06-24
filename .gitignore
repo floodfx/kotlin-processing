@@ -1,0 +1,9 @@
+.classpath
+.gradle
+.project
+.settings
+bin/
+build/
+kotlin-processing.iml
+kotlin-processing.ipr
+kotlin-processing.iws
